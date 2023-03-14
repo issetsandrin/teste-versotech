@@ -44,10 +44,6 @@
                     <label for="inputEmail">Email</label>
                     <?php echo '<input type="email" name="email" value="'.$row['email'].'" class="form-control" id="inputEmail">'; ?>
                 </div>
-                <div class="form-group col-md-6">
-                    <label for="inputPassword">Senha</label>
-                   <?php echo '<input type="password" name="senha" value="'.$row['senha'].'" class="form-control" id="inputPassword" disabled>'; ?>
-                </div>
             </div>
             <button type="submit" class="btn btn-primary">Atualizar</button>
             <a href="../../teste-versotech/read/list_users.php" class="btn btn-secondary" style="margin-top: 2%;width: 100px;">Voltar</a>
