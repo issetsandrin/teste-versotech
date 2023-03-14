@@ -1,3 +1,8 @@
+
+# versotech - teste de competência
+O repositiorio conta com um arquivo em banco de dados SQL e os demais arquivos para o funcionamento do software.<br><br>
+Foi utilizado xampp pra fazer a conexão SQL + Apache
+
 # Cadastro de usuários
 ![1](https://user-images.githubusercontent.com/110538125/225103015-6aaafeb7-48ef-466a-a61e-4cd825ea1786.png)
 ![2](https://user-images.githubusercontent.com/110538125/225103019-d1a3be3f-b504-465e-8a0a-466dd11e9187.png)
