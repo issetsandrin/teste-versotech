@@ -1,14 +1,11 @@
-# teste-versotech
-Teste de competência para a empresa versotech
-
-<h2>Cadastro de usuários<h2>
-  ![1](https://user-images.githubusercontent.com/110538125/225102349-068ed08b-143c-497f-8a50-13acc8400fca.png)
-  ![2](https://user-images.githubusercontent.com/110538125/225102376-a0f0bdfc-7da2-464d-95a7-41c489b2f6a1.png)
-
-<h2>Cadastro de cores<h2>
-  ![3](https://user-images.githubusercontent.com/110538125/225102388-d0a967c0-814d-4421-ac45-6eeb8bd6e3c1.png)
-  ![4](https://user-images.githubusercontent.com/110538125/225102399-0d7c1392-79ec-41c2-85e6-df8eaf46ec05.png)
-
-<h2>Associação de cores<h2>
-  ![5](https://user-images.githubusercontent.com/110538125/225102406-5e54041d-7c82-4db8-9b23-61fa6b80dd16.png)
-  ![6](https://user-images.githubusercontent.com/110538125/225102411-8fd0953d-2ef1-47b7-8af5-c8c378a28946.png)
+# Cadastro de usuários
+![1](https://user-images.githubusercontent.com/110538125/225103015-6aaafeb7-48ef-466a-a61e-4cd825ea1786.png)
+![2](https://user-images.githubusercontent.com/110538125/225103019-d1a3be3f-b504-465e-8a0a-466dd11e9187.png)
+#
+# Cadastro de cores
+![3](https://user-images.githubusercontent.com/110538125/225103023-d3c42af4-32da-404a-9342-d76a979068ed.png)
+![4](https://user-images.githubusercontent.com/110538125/225103024-b27daf97-ab10-40ce-b1b0-0c1e53ac590b.png)
+#
+# Associação de cor x usuário
+![5](https://user-images.githubusercontent.com/110538125/225103030-311c1bbc-b77b-4e18-b642-a1dbd6df0c70.png)
+![6](https://user-images.githubusercontent.com/110538125/225103031-99ce2b7e-d8e7-4ee9-8b03-3d52d595309d.png)
